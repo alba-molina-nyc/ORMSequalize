@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "albamolina",  
-    "password": 1234,
+    "password": "Chance123456789",
     "database": "orm_tutorial",
     "host": "127.0.0.1",
     "dialect": "postgres"
